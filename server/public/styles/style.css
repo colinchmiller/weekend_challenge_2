@@ -1,0 +1,24 @@
+/*.nav-button {*/
+    /*display: inline-block;*/
+    /*border: 5px solid #14146f;*/
+    /*margin: 5px;*/
+    /*padding: 5px;*/
+/*}*/
+
+#displayContent {
+    height: 200px;
+}
+
+.index-point {
+    height: 8px;
+    width: 8px;
+    margin: 0 5px;
+    background-color: rgba(29, 30, 51, 0.62);
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.index-active {
+    background-color: rgba(198, 0, 0, 0.76);
+}
